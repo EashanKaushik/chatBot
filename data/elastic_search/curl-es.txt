@@ -1,0 +1,2 @@
+curl -u master-username:master-pass -X PUT "ENDPOINT/restaurants?pretty
+curl -XPOST -u master-username:master-pass "ENDPOINT/_bulk" --data-binary @esdata.json -H "Content-Type: application/json"

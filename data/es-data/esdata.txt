@@ -1,0 +1,8 @@
+{"index": {"_index": "restaurants", "_id": "1"}}
+{"restaurantId": "MLBqYHtCwACXgmKxYTFq3g", "cuisine": "japanese"}
+{"index": {"_index": "restaurants", "_id": "2"}}
+{"restaurantId": "-J8VuX3wGrYSOBu2G0hMsw", "cuisine": "japanese"}
+{"index": {"_index": "restaurants", "_id": "3"}}
+{"restaurantId": "icpLRhJ1jpBX1zBGkt7Xqg", "cuisine": "japanese"}
+{"index": {"_index": "restaurants", "_id": "4"}}
+{"restaurantId": "diz6_4TVSP6EdWEZCZ0Acg", "cuisine": "japanese"}
